@@ -57,6 +57,9 @@ Where find this values? In `Ida Pro` for example.
 Start represent `RVA`.
 Length represent `Size`.
 
+### Method using `.map` file
+Generate MAP file (option /MAP to compiler) and use [AMAP](http://www.sikorskiy.net/prj/amap/)
+
 ## Obfuscation
 
       fuku_settings_obfuscation ob_set(3, 3, 40.f, 40.f, 40.f,
