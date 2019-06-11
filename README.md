@@ -48,7 +48,7 @@ Protecting
     fuku.add_ob_code_list({ 0x1000 , 0x20 }, &_module, ob_set); // 1st parameter fuku_protected_region
 
  - `0x1000` hex value of RVA
- -  `0x20` hex value of region size
+ -  `0x23` hex value of region size
 
 Where find this values? In `Ida Pro` for example.
 
