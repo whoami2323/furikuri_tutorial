@@ -51,6 +51,7 @@ Protecting
  -  `0x20` hex value of region size
 
 Where find this values? In `Ida Pro` for example.
+
 ![s](region.png)
 
 Start represent `RVA`.
