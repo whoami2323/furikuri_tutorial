@@ -1,4 +1,5 @@
 # Furikuri Tutorial
+https://youtu.be/L880dFIc40s
 
 ## Minimal Usage
 Defined in `furikuri_console` project
